@@ -1,0 +1,1 @@
+This is an accommodation website developed using HTML and CSS. The website is designed to help users search, browse, and book accommodations in various locations. It provides an easy-to-navigate user interface, with sections for available listings, search filters, and booking options.
